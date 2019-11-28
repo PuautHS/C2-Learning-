@@ -1,0 +1,11 @@
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe.config
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\bin\Debug\FormsApp1.pdb
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csprojAssemblyReference.cache
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Form1.resources
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Properties.Resources.resources
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csproj.GenerateResource.cache
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csproj.CoreCompileInputs.cache
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.exe
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.pdb
+D:\งานตัวเอง\อ.แตง\C2\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Calculator1.resources
